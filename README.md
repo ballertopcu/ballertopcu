@@ -2,5 +2,4 @@
 - I’m front-end developer
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me topcuballer@gmail.com
-- Connect with me:
-www.linkedin.com/in/topcuabdullah/
+- Click [here](https://www.linkedin.com/in/topcuabdullah/) to go to my LinkedIn profile. 
